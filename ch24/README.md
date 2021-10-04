@@ -1,0 +1,1 @@
+教學shasum tool以及docker
